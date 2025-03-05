@@ -1,0 +1,17 @@
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\bin\Debug\net9.0-windows\Pokamon_Dex.exe
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\bin\Debug\net9.0-windows\Pokamon_Dex.deps.json
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\bin\Debug\net9.0-windows\Pokamon_Dex.runtimeconfig.json
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\bin\Debug\net9.0-windows\Pokamon_Dex.dll
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\bin\Debug\net9.0-windows\Pokamon_Dex.pdb
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.Form1.resources
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.Resource1.resources
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.csproj.GenerateResource.cache
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.GeneratedMSBuildEditorConfig.editorconfig
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.AssemblyInfoInputs.cache
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.AssemblyInfo.cs
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.csproj.CoreCompileInputs.cache
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.dll
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\refint\Pokamon_Dex.dll
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.pdb
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\Pokamon_Dex.genruntimeconfig.cache
+C:\OBJECT-ORIENTED PROGRAMING\Pokamon_Dex\obj\Debug\net9.0-windows\ref\Pokamon_Dex.dll
